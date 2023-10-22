@@ -270,4 +270,6 @@ La función ````main()```` primero calcula el tiempo de inicio del programa. Lue
 La función ````main()```` utiliza la función ````list```` para crear una lista vacía. Despues se utiliza un bucle ````for```` para iterar desde 0 hasta n. el main utiliza la funcion ````time.time```` para calcular el tiempo de finalizacion del programa 
 
 ## Punto 5 
-[![image.png](https://github.com/shalomtorress/reto-7/blob/main/punto2.png)
+[![image.png](https://github.com/shalomtorress/imagenes/blob/main/Captura%20de%20pantalla%202023-10-21%20233255.png)
+## Punto 6
+https://www.linkedin.com/in/shalom-torres-molina-237548297/
